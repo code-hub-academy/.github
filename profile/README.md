@@ -4,7 +4,7 @@ Code Hub is a non-profit organization committed to providing teenagers with the 
 # How Do I Get In/Enroll 
 Code Hub utilizes Google Classroom to deliver a structured and effective learning experience. To join, simply email zaidayan456@gmail.com to request the class code. You will receive the code within 24 hours, granting you access to Code Hub's virtual classroom!.
 
-<br><br>
+<br>
 
 If you have any further questions or requests about the organization, feel free to contact me!
 <pre>
