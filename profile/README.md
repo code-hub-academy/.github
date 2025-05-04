@@ -6,8 +6,7 @@ Code Hub utilizes Google Classroom to deliver a structured and effective learnin
 
 <br>
 
-If you have any further questions or requests about the organization, feel free to contact me!
-<pre>
-  Email: zaidayan456@gmail.com
-  Number: +91 6366093164
-</pre>
+If you have any further questions or requests about the organization, feel free to contact me!<br>
+Email: zaidayan456@gmail.com
+Number: +91 6366093164
+
